@@ -25,33 +25,33 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
-    hsl(241, 77%, 29%) 97%
+    hsl(187, 54%, 75%) 3%, 
+    hsl(298, 38%, 82%) 97%
   );
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
-    hsla(184, 77%, 43%, 0.251) 0%, 
-    hsla(194, 83%, 31%, 0) 100%
-  ), hsl(189, 55%, 54%);
+    hsla(295, 80%, 22%, 0.251) 0%, 
+    hsla(293, 81%, 45%, 0) 100%
+  ), hsl(332, 75%, 41%);
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right, 
-    hsl(45, 100%, 71%) 0%, 
+    hsl(295, 63%, 46%) 0%, 
     hsla(36, 100%, 69%, 0) 50%
   );
   --bg-gradient-yellow-2: linear-gradient(
     135deg, 
-    hsla(45, 100%, 71%, 0.251) 0%, 
+    hsla(295, 72%, 53%, 0.251) 0%, 
     hsla(35, 100%, 68%, 0) 59.86%
   ), hsl(240, 2%, 13%);
   --border-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(0, 0%, 25%) 0%, 
-    hsla(182, 78%, 32%, 0) 50%
+    hsla(288, 78%, 32%, 0) 50%
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
-    hsl(45, 100%, 72%), 
-    hsl(35, 100%, 68%)
+    hsl(298, 77%, 48%), 
+    hsl(290, 70%, 41%)
   );
 
   /* solid */
@@ -63,11 +63,11 @@
   --smoky-black: hsl(0, 0%, 7%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(45, 100%, 72%);
-  --vegas-gold: hsl(45, 54%, 58%);
+  --orange-yellow-crayola: hsl(290, 80%, 46%);
+  --vegas-gold: hsl(298, 74%, 53%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
+  --bittersweet-shimmer: hsl(298, 69%, 48%);
 
   /**
    * typography
