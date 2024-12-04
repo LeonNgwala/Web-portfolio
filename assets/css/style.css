@@ -770,7 +770,7 @@ main {
             display: inline-block;
             margin-top: 20px;
             padding: 10px 20px;
-            background-color: #4CAF50;
+            background-color: purple;
             color: white;
             text-decoration: none;
             border: none;
@@ -778,7 +778,7 @@ main {
             cursor: pointer;
         }
         dl:hover, viewBtn:hover {
-            background-color: #45a049;
+            background-color: green;
         }
         iframe, embed {
             border: none;
