@@ -766,7 +766,7 @@ main {
 
 
 
- dl, button {
+ dl, dv {
             display: inline-block;
             margin-top: 20px;
             padding: 10px 20px;
@@ -777,7 +777,7 @@ main {
             border-radius: 5px;
             cursor: pointer;
         }
-        dl:hover, button:hover {
+        dl:hover, dv:hover {
             background-color: #45a049;
         }
         iframe, embed {
