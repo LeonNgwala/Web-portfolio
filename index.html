@@ -501,6 +501,14 @@
         <header>
           <h2 class="h2 article-title">Resume</h2>
         </header>
+
+        <h1>Welcome to My Portfolio</h1>
+    <p>Here is my CV:</p>
+    <a href="assets/cv.pdf" download>Download My CV</a>
+    <button id="viewBtn">View CV</button>
+    <div id="viewer" style="display: none;">
+        <embed src="assets/cv.pdf" type="application/pdf" />
+    </div>
 <!-- 
         <section class="timeline">
 
@@ -1168,6 +1176,14 @@
   -->
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+   <script>
+        const viewBtn = document.getElementById('viewBtn');
+        const viewer = document.getElementById('viewer');
+
+        viewBtn.addEventListener('click', () => {
+            viewer.style.display = viewer.style.display === 'none' ? 'block' : 'none';
+        });
+    </script>
 
 </body>
 
