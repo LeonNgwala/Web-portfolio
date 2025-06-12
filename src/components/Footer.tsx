@@ -13,7 +13,7 @@ export function Footer() {
               Lutho Ngwala
             </h3>
             <p className="text-sm text-muted-foreground flex items-center gap-1">
-              Made with <Heart size={14} className="text-red-500" /> © {currentYear} All rights reserved.
+               © {currentYear} All rights reserved.
             </p>
           </div>
           

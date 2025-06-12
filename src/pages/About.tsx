@@ -64,7 +64,7 @@ export default function AboutPage() {
                   <h3 className="font-medium">Junior Software Developer - Kore Business Solutions</h3>
                   <span className="text-sm text-muted-foreground">Feb 2025 - June 2025</span>
                 </div>
-                <p className="text-muted-foreground text-sm">Led development of core products and mentored junior team members.</p>
+                <p className="text-muted-foreground text-sm">Contributed to the development of a web-based business reporting platform using React, django, PostgreSQL, and Tailwind CSS</p>
               </div>
               
               <div>
@@ -72,7 +72,7 @@ export default function AboutPage() {
                   <h3 className="font-medium">Systems Software Development - Learnership</h3>
                   <span className="text-sm text-muted-foreground">2024 - 2025</span>
                 </div>
-                <p className="text-muted-foreground text-sm">Developed and maintained web applications for clients in various industries.</p>
+                <p className="text-muted-foreground text-sm"></p>
               </div>
             </div>
           </div>

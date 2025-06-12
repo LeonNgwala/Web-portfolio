@@ -15,19 +15,19 @@ interface BlogPost {
 const blogPosts: BlogPost[] = [
   {
     id: 1,
-    title: "Getting Started with React Hooks",
-    excerpt: "Learn how to use React Hooks to simplify your components and reduce boilerplate code in your React applications.",
-    date: "April 10, 2025",
-    author: "Jane Doe",
+    title: "Madibaz chess star aims for higher honours",
+    excerpt: "Madibaz chess star Lutho Ngwala has higher honours on his mind each time he takes up his seat at the Eastern Cape championships in Jeffreys Bay this week.",
+    date: "June 10, 2023",
+    author: "Maibaz sport",
     category: "Development",
-    image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
+    image: "https://sport.mandela.ac.za/getmedia/a3825460-f49c-45f3-97de-86b3f4e1ab1c/Lutho-Ngwala?width=350&height=262"
   },
   {
     id: 2,
     title: "The Future of UI Design in 2025",
     excerpt: "Explore emerging trends in user interface design and how they're shaping the digital landscape in the coming year.",
     date: "April 8, 2025",
-    author: "John Smith",
+    author: "Lutho Ngwala",
     category: "Design",
     image: "https://images.unsplash.com/photo-1545235617-9465d2a55698?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
   },
@@ -36,7 +36,7 @@ const blogPosts: BlogPost[] = [
     title: "Building Accessible Web Applications",
     excerpt: "Discover best practices for creating web applications that are accessible to users with various disabilities and needs.",
     date: "April 5, 2025",
-    author: "Alex Johnson",
+    author: "Lutho Ngwala",
     category: "Accessibility",
     image: "https://images.unsplash.com/photo-1617042375876-a13e36732a04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
   },
@@ -45,7 +45,7 @@ const blogPosts: BlogPost[] = [
     title: "Optimizing React Performance",
     excerpt: "Learn advanced techniques for improving the performance of your React applications for better user experience.",
     date: "April 1, 2025",
-    author: "Sarah Williams",
+    author: "Lutho Ngwala",
     category: "Development",
     image: "https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8"
   },

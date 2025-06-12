@@ -269,13 +269,13 @@ export default function HomePage() {
       <section className="py-20 px-4 bg-gradient-to-br from-secondary/30 via-background to-accent/20">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-8 bg-gradient-to-r from-foreground to-muted-foreground bg-clip-text text-transparent">
-            What I Do Best
+            Skills
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
               { skill: 'React', level: '95%' },
               { skill: 'TypeScript', level: '90%' },
-              { skill: 'Design', level: '85%' },
+              { skill: 'Django', level: '85%' },
               { skill: 'Node.js', level: '80%' }
             ].map((item, index) => (
               <div key={index} className="text-center">
